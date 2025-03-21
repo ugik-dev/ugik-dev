@@ -2,9 +2,8 @@
 <h1 align="center">Hi 👋, I'm Ugik Dev</h1>
 <h3 align="center">Fullstack Developer</h3>
 
-[![wakatime](https://wakatime.com/badge/user/f6d9965b-4129-4fb2-b66a-ad293f346c67.svg)](https://wakatime.com/@f6d9965b-4129-4fb2-b66a-ad293f346c67)
+[![wakatime](https://wakatime.com/badge/user/bf27cd0b-579f-4700-8395-85425504a4b1.svg)](https://wakatime.com/@bf27cd0b-579f-4700-8395-85425504a4b1)
 ![](https://komarev.com/ghpvc/?username=junicotandiago198)
-<figure><embed src="https://wakatime.com/share/@bf27cd0b-579f-4700-8395-85425504a4b1/dccb58c9-6379-4c93-98d7-bb63c3fb61f0.svg"></embed></figure>
 ## Coding Activity
 <a href="https://github.com/ugik-dev"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ugik-dev&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
 
