@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=junicotandiago198)
 
 ## Coding Activity
-<a href="https://github.com/alexchandrahanif"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexchandrahanif&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
+<a href="https://github.com/ugik-dev"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ugik-dev&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
 
 <img align="right" alt="Coding" width="400" src="https://cjunicotandiago198.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
@@ -19,14 +19,14 @@
 
 - 💬 Ask me about **Javascript, Typescript**
 
-- 📫 How to reach me **Reach out to me directly through my <a href="https://www.instagram.com/alexchandrahanif/">Instagram</a>**
+- 📫 How to reach me **Reach out to me directly through my <a href="https://www.instagram.com/ugikdev/">Instagram</a>**
 
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/alex-chandra-hanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-chandra-hanif" height="30" width="40" /></a>
-<a href="https://instagram.com/alexchandrahanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexchandrahanif" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ugikdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ugikdev" height="30" width="40" /></a>
+<a href="https://instagram.com/ugikdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ugikdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,8 +54,8 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexchandrahanif&show_icons=true&locale=en&layout=compact" alt="alexchandrahanif" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugik-dev&show_icons=true&locale=en&layout=compact" alt="ugik-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexchandrahanif&show_icons=true&locale=en" alt="Alexchandrahanif" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ugik-dev&show_icons=true&locale=en" alt="ugik-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexchandrahanif&" alt="alexchandrahanif" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ugik-dev&" alt="ugik-dev" /></p>
