@@ -3,7 +3,7 @@
 <h3 align="center">Fullstack Developer</h3>
 
 [![wakatime](https://wakatime.com/badge/user/bf27cd0b-579f-4700-8395-85425504a4b1.svg)](https://wakatime.com/@bf27cd0b-579f-4700-8395-85425504a4b1)
-![](https://komarev.com/ghpvc/?username=junicotandiago198)
+![](https://komarev.com/ghpvc/?username=ugik-dev)
 ## Coding Activity
 <a href="https://github.com/ugik-dev"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=ugik-dev&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
 
